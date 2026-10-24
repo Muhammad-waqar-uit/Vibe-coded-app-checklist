@@ -218,10 +218,6 @@ Not every app needs all 111 items. A weekend side project does not need Kubernet
 
 Pull requests are welcome. Good contributions: clearer todos, links to good guides for an item, stack specific notes (Next.js, Supabase, Firebase, Solidity and so on) and missing topics. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Credit
-
-Topic list inspired by the "Who's gonna tell vibe coders about..." carousel by @nataindata on Instagram. The todos and structure here are original.
-
 ## License
 
 MIT, see [LICENSE](LICENSE).
