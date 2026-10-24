@@ -2,7 +2,7 @@
 
 AI tools can get an app running in an afternoon. They rarely tell you what it needs to survive real users, real traffic and real attackers. This repo is a checklist of 111 things that usually get skipped, each with a concrete todo you can tick off before you call a vibe coded app "production ready".
 
-The list of topics comes from the "Who's gonna tell vibe coders about..." carousel by @nataindata. The todos are written to be practical: read the topic, do the action, tick the box.
+The list of topics comes from the "Who's gonna tell vibe coders about...". The todos are written to be practical: read the topic, do the action, tick the box.
 
 ## How to use this
 
